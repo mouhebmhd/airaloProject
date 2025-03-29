@@ -1,0 +1,11 @@
+.whyCard
+{
+    box-shadow:1px 3px 10px 0px rgba(90, 90, 90, 0.75);
+    border-radius: 10px;
+}
+.whyCard .card-text
+{
+background: var(--whiteGrayColor);
+padding: 10px;
+border-radius: 10px;
+}

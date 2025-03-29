@@ -3,6 +3,9 @@ import Navbar from '../components/navbar';
 import HomeContent from '../components/homeMessage';
 import CarouselSlider from '../components/carouselSlider';
 import NavigationTab from '../components/NavigationTab';
+import HowItWorks from '../components/howItWorks';
+import WhyAiralo from '../components/whyAiralo';
+import Testimonials from '../components/testimonials';
 export default function HomeView() {
   return (
     <>
@@ -10,6 +13,9 @@ export default function HomeView() {
     <HomeContent/>
     <CarouselSlider/>
     <NavigationTab/>
+    <HowItWorks/>
+    <WhyAiralo/>
+    <Testimonials/>
     </>
   )
 }

@@ -4,7 +4,7 @@ import GlobalEsims from './globalEsims'
 import RegionalEsims from './regionalEsims'
 export default function NavigationTab() {
   return (
-    <section className='OffersSection mt-4'>
+    <section className='OffersSection mt-4' style={{backgroundColor:"#FAFAFA"}}>
 <ul className="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
   <li className="nav-item" role="presentation">
     <button className="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Local eSIMs</button>

@@ -268,8 +268,8 @@ export default function LocalEsims() {
 )
   return (
     <div className='container-fluid p-3'>
-      <h3 className=''>All Countries</h3>
-      <div className="row mt-3">
+      <h3 className='my-2 text-center my-4'>All Countries</h3>
+      <div className="row mt-3 m-auto">
         {
           countries.map((country,index)=>{
             return (
