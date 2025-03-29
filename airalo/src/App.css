@@ -40,4 +40,13 @@
 :root
 {
   --grayColor:#8A8A8A;
+  --whiteGrayColor:#838181;
+}
+.whiteGrayText
+{
+  color: var(--whiteGrayColor);
+}
+.grayText
+{
+  color: var(--grayColor);
 }
