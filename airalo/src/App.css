@@ -55,3 +55,8 @@
 {
   font-family: "Poppins" !important;
 }
+.row
+{
+  margin: 0;
+  padding: 0;
+}

@@ -11,7 +11,7 @@ const HomeContent = () => {
         </p>
       </div>
       <div className="row m-0 p-0">
-        <p className="text-center whiteGrayText">
+        <p className="text-center grayText">
             Our eSIMs are trusted by over 10,000,000 people worldwide
         </p>
       </div>
@@ -25,7 +25,7 @@ const HomeContent = () => {
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star-half-stroke"></i>
-          <span className='whiteGrayText'>From 300,000+ Reviews</span>
+          <span className='grayText'>From 300,000+ Reviews</span>
         </p>
       </div>
      

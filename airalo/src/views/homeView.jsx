@@ -6,6 +6,7 @@ import NavigationTab from '../components/NavigationTab';
 import HowItWorks from '../components/howItWorks';
 import WhyAiralo from '../components/whyAiralo';
 import Testimonials from '../components/testimonials';
+import ReadyToTry from '../components/readyToTry';
 export default function HomeView() {
   return (
     <>
@@ -16,6 +17,7 @@ export default function HomeView() {
     <HowItWorks/>
     <WhyAiralo/>
     <Testimonials/>
+    <ReadyToTry/>
     </>
   )
 }

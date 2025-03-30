@@ -1,5 +1,5 @@
 import React from "react";
-import "../assets/style/whyUs.css"
+import "../assets/styles/whyUs.css"
 import whyOne from "../assets/images/Why-Use-Airalo-1.png"
 import whyTwo from "../assets/images/Why-Use-Airalo-2.png"
 import whyThree from "../assets/images/Why-Use-Airalo-3.png"
