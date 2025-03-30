@@ -14,7 +14,7 @@ export default function ReadyToTry() {
             </div>
         </div>
         <div className="d-sm-none d-md-block col-lg-4 col-md-4 ">
-            <img src={downloadNow} alt="" />
+            <img src={downloadNow} alt="download us image " />
         </div>
     </div>
   )

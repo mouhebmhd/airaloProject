@@ -7,6 +7,8 @@ import HowItWorks from '../components/howItWorks';
 import WhyAiralo from '../components/whyAiralo';
 import Testimonials from '../components/testimonials';
 import ReadyToTry from '../components/readyToTry';
+import FreeCredit from '../components/freeCredit';
+import Footer from '../components/footer';
 export default function HomeView() {
   return (
     <>
@@ -18,6 +20,8 @@ export default function HomeView() {
     <WhyAiralo/>
     <Testimonials/>
     <ReadyToTry/>
+    <FreeCredit/>
+    <Footer/>
     </>
   )
 }

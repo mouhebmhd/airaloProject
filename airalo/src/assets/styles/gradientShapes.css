@@ -1,0 +1,12 @@
+.gradientBack
+{
+    background: linear-gradient(to right, #ff606D, #FFC271);
+    border-radius: 15px; /* Optional: for rounded corners */
+    padding: 20px;
+    color: white; /* Ensures text is visible */
+    text-align: center;
+}
+.freeContainer
+{
+    height: 50vh;
+}
